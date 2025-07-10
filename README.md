@@ -1,2 +1,2 @@
-# Demo App
-Documentación de ejemplo.
+# Crypto Bot
+Documentación de despliegue y uso del sistema completo.
